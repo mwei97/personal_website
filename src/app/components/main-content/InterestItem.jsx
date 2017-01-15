@@ -32,7 +32,6 @@ class InterestItem extends React.Component {
                     <Carousel.Item>
                         <img style={imgStyle} src="https://static.pexels.com/photos/7101/wood-coffee-iphone-notebook.jpg" />
                         <Carousel.Caption>
-                            <h3>Helen Qin</h3>
                             <p>Work hard, Think Differently, Program</p>
                         </Carousel.Caption>
                     </Carousel.Item>
@@ -40,7 +39,6 @@ class InterestItem extends React.Component {
                     <Carousel.Item>
                         <img style={imgStyle} src="https://static.pexels.com/photos/132982/pexels-photo-132982.jpeg" />
                         <Carousel.Caption>
-                            <h3>Helen Qin</h3>
                             <p>Work hard, Think Differently, Program</p>
                         </Carousel.Caption>
                     </Carousel.Item>           
