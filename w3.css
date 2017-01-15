@@ -1,4 +1,4 @@
-/* W3.CSS 2.84 Dec 2016 by Jan Egil and Borge Refsnes */
+/* W3.CSS 2.87 Jan 2017 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
@@ -148,6 +148,8 @@ input[type=checkbox].w3-check:disabled+.w3-validate,input[type=radio].w3-radio:d
 .w3-col.l12{width:99.99999%}}
 .w3-content{max-width:980px;margin:auto}
 .w3-rest{overflow:hidden}
+.w3-layout-container{display:table;width:100%}.w3-layout-row{display:table-row}.w3-layout-cell{display:table-cell}
+.w3-layout-top{vertical-align:top}.w3-layout-middle{vertical-align:middle}.w3-layout-bottom{vertical-align:bottom}
 .w3-hide{display:none!important}.w3-show-block,.w3-show{display:block!important}.w3-show-inline-block{display:inline-block!important}
 @media (max-width:600px){.w3-modal-content{margin:0 10px;width:auto!important}.w3-modal{padding-top:30px}}
 @media (max-width:768px){.w3-modal-content{width:500px}.w3-modal{padding-top:50px}}
@@ -322,7 +324,7 @@ input[type=checkbox].w3-check:disabled+.w3-validate,input[type=radio].w3-radio:d
 .w3-border-light-blue,.w3-hover-border-light-blue:hover{border-color:#87CEEB!important}
 .w3-border-brown,.w3-hover-border-brown:hover{border-color:#795548!important}
 .w3-border-cyan,.w3-hover-border-cyan:hover{border-color:#00bcd4!important}
-.w3-border-blue-grey,.w3-hover-blue-grey:hover,.w3-border-blue-gray,.w3-hover-blue-gray:hover{border-color:#607d8b!important}
+.w3-border-blue-grey,.w3-hover-border-blue-grey:hover,.w3-border-blue-gray,.w3-hover-border-blue-gray:hover{border-color:#607d8b!important}
 .w3-border-green,.w3-hover-border-green:hover{border-color:#4CAF50!important}
 .w3-border-light-green,.w3-hover-border-light-green:hover{border-color:#8bc34a!important}
 .w3-border-indigo,.w3-hover-border-indigo:hover{border-color:#3f51b5!important}
